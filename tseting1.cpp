@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"first project";
+cout<<"first project  ";
 return 0;
 }
