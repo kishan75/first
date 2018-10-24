@@ -3,5 +3,6 @@ using namespace std;
 int main()
 {
 cout<<"first project";
-return 0;
+cout<<"testing diff command";
+  return 0;
 }
